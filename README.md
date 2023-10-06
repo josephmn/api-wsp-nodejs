@@ -66,6 +66,6 @@ Por el momento no hay contribuciones.
 
 ## Créditos
 
-Vídeo tuto+ que brindo la noción y explicación de su vídeo de cómo se usar la librería, así como una demo de recordatorio.  
+Vídeo tuto+ que brindo la noción y explicación de su vídeo de cómo se usa la librería, así como una demo de recordatorio.  
 [![tuto+](https://img.shields.io/badge/canal_Youtube-tuto+-red)](https://www.youtube.com/@tutomas)
 [![video](https://img.shields.io/badge/video_tutorial-Automatizar_recordatorios_whatsapp_nodejs-red)](https://www.youtube.com/watch?v=F_bZlD6HiXc&t=2s)
