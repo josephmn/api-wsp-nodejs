@@ -17,7 +17,7 @@ if (!fs.existsSync(logFolderPath)) {
 
 const flog = fileHoraActual();
 
-const logFilePath = path.join(logFolderPath, `${flog}.txt`);
+const logFilePath = path.join(logFolderPath, `${flog}.log`);
 
 // Middleware para procesar solicitudes JSON
 app.use(express.json());

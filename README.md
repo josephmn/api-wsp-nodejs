@@ -48,11 +48,11 @@ Para esta aplicación se usó la librería whatsapp-web.js (https://wwebjs.dev/)
 
     ![Alt text](/img/image-4.png)
 
-9. A su vez en la raíz del proyecto se creó una carpeta con el nombre de **log**, dentro de la carpeta se crear un archivo txt que tendrá como nombre la fecha de ejecución, vea el ejemplo siguiente:
+9. A su vez en la raíz del proyecto se creó una carpeta con el nombre de **log**, dentro de la carpeta se crear un archivo *.log* que tendrá como nombre la fecha de ejecución, vea el ejemplo de referencia siguiente:
 
     ![Alt text](/img/image-5.png)
 
-    El archivo contiene los envíos de mensaje que se realicen desde el API:
+    El archivo(*.log) contiene los envíos de mensaje que se realicen desde el API:
 
     ![Alt text](/img/image-6.png)
 
@@ -67,5 +67,5 @@ Por el momento no hay contribuciones.
 ## Créditos
 
 Vídeo tuto+ que brindo la noción y explicación de su vídeo de cómo usar la librería, así como una demo de recordatorio.  
-[![tuto+](https://img.shields.io/badge/canal_Youtube-tuto+-red)](https://www.youtube.com/@tutomas)
+[![tuto+](https://img.shields.io/badge/canal_Youtube-emprendecoders-red)](https://www.youtube.com/@emprendecoders)
 [![video](https://img.shields.io/badge/video_tutorial-Automatizar_recordatorios_whatsapp_nodejs-red)](https://www.youtube.com/watch?v=F_bZlD6HiXc&t=2s)
